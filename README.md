@@ -40,16 +40,5 @@ This split is visible even in these small tasks: `main.cpp` is a thin bootstrap 
 
 ---
 
-## Repo structure
 
-```
-.
-├── task1_qt/        # Hello World — static user info card, plain property bindings
-├── task3/           # Products — category grid + tappable details card
-└── qt_tsk2/         # Splash & Welcome screen — async image loading, timers
-```
-
-Each folder has its own `README.md` with screenshots and a walkthrough of what that specific task does. This page is just the front door.
-
----
 
